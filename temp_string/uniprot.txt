@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region P0DI16 1 1017
+P0DI16	UniProtKB	Chain	1	1017	.	.	.	ID=PRO_0000417428;Note=Probable disease resistance protein RDL5	
+P0DI16	UniProtKB	Domain	147	460	.	.	.	Note=NB-ARC	
+P0DI16	UniProtKB	Repeat	602	627	.	.	.	Note=LRR 1	
+P0DI16	UniProtKB	Repeat	649	674	.	.	.	Note=LRR 2	
+P0DI16	UniProtKB	Repeat	675	699	.	.	.	Note=LRR 3	
+P0DI16	UniProtKB	Repeat	768	791	.	.	.	Note=LRR 4	
+P0DI16	UniProtKB	Repeat	792	819	.	.	.	Note=LRR 5	
+P0DI16	UniProtKB	Repeat	841	865	.	.	.	Note=LRR 6	
+P0DI16	UniProtKB	Repeat	937	962	.	.	.	Note=LRR 7	
+P0DI16	UniProtKB	Coiled coil	25	52	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P0DI16	UniProtKB	Binding site	190	197	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P0DI16	UniProtKB	Alternative sequence	851	855	.	.	.	ID=VSP_043691;Note=In isoform 2. VCRKL->IHCRL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0DI16	UniProtKB	Alternative sequence	856	1017	.	.	.	ID=VSP_043692;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+##gff-version 3
+##sequence-region F4IBE4 1 1017
+F4IBE4	UniProtKB	Chain	1	1017	.	.	.	ID=PRO_0000212742;Note=Probable disease resistance protein RF45	
+F4IBE4	UniProtKB	Domain	147	460	.	.	.	Note=NB-ARC	
+F4IBE4	UniProtKB	Repeat	602	627	.	.	.	Note=LRR 1	
+F4IBE4	UniProtKB	Repeat	649	674	.	.	.	Note=LRR 2	
+F4IBE4	UniProtKB	Repeat	675	699	.	.	.	Note=LRR 3	
+F4IBE4	UniProtKB	Repeat	768	791	.	.	.	Note=LRR 4	
+F4IBE4	UniProtKB	Repeat	792	819	.	.	.	Note=LRR 5	
+F4IBE4	UniProtKB	Repeat	841	865	.	.	.	Note=LRR 6	
+F4IBE4	UniProtKB	Repeat	937	962	.	.	.	Note=LRR 7	
+F4IBE4	UniProtKB	Coiled coil	25	52	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+F4IBE4	UniProtKB	Binding site	190	197	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+F4IBE4	UniProtKB	Alternative sequence	851	855	.	.	.	ID=VSP_043689;Note=In isoform 2. VCRKL->IHCRL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10548732;Dbxref=PMID:10548732	
+F4IBE4	UniProtKB	Alternative sequence	856	1017	.	.	.	ID=VSP_043690;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10548732;Dbxref=PMID:10548732	
